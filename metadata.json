@@ -1,0 +1,5 @@
+{
+  "name": "KALK LOK",
+  "description": "A comprehensive sales calculator for various building material manufacturers, allowing for dynamic pricing based on agreements, discounts, and transport costs. The application supports data persistence, import/export from Excel, and a modular design for different suppliers.",
+  "requestFramePermissions": []
+}
